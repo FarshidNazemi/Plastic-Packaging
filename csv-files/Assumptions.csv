@@ -68,7 +68,7 @@
 67,,,,,,,electricity,"optical sorting, PS",5.3,kWh / metric ton of large rigid mono-layer  PS,,PS-rigid-large,0,0.98,0.98,,PS-rigid-large,0.95,0,0,,,,,
 68,Macro-plastic,,Micro-plastic,,,,electricity,"optical sorting, PVC",5.3,kWh / metric ton of large rigid mono-layer  PVC,,PS-flexible-large,0,0,0.882,,PS-flexible-large,0.9,0.9,0,,,,,
 69,Litter rate,0.025,Fragmantation rate of macroplastic in marine env.,1,,,,,,,,PS-rigid-small,0,0,0.98,,PS-rigid-small,0,0,0,,,,,
-70,Mismanaged waste to the environment (rate),0.1,Fragmantation rate of macroplastic in river ,1,,,High-tech sorting ,,,,,PVC-rigid-large,0,0.98,0.98,,PVC-rigid-large,0.95,0,0,,,,,
+70,Mismanaged waste to the environment ,0.45,Fragmantation rate of macroplastic in river ,1,,,High-tech sorting ,,,,,PVC-rigid-large,0,0.98,0.98,,PVC-rigid-large,0.95,0,0,,,,,
 71,ratio of macroplastic waste in ,0.1,microplastics from river to marine env.,1,,,flows,equipment,amount ,unit,,PVC-flexible-large,0,0,0.882,,PVC-flexible-large,0.9,0.9,0,,,,,
 72,from natural env. to coastal env.,0.29,Microplastics leachate landfill,0.0012,,,electricity,conveyor,0.167,kwh/ton of total plastic waste input,,PVC-rigid-small,0,0,0.98,,PVC-rigid-small,0,0,0,,,,,
 73,from natural env. to river,0.374,Microplastics leachate Pre-processing in rec. processes (w/o filtration),0.052,,,electricity,vacuum,2,kwh/ton of large flexible packaging,,Multilayer-rigid-large,0,0,0.98,,Multilayer-rigid-large,0.95,0.95,0,,,,,
